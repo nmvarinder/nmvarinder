@@ -8,10 +8,10 @@ I'm Varinder, a fervent code conjurer weaving spells with coding.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
-#### 🔭 Currently enchanting the realms with Web-Development Project.
+<!-- #### 🔭 Currently enchanting the realms with Web-Development Project. -->
 
-#### ✔️ DSA Challenge Accepted:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderchats)
+#### ✔️ DSA Challenge Accepted: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderchats)
+
 
 #### 🌱 Brewing potions of knowledge in .
 
