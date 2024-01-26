@@ -1,5 +1,6 @@
 #### 👨‍💻 Hello Coders! 🚀
 I'm Varinder, a fervent code conjurer weaving spells with coding.
+###### 🌱 Brewing potions of knowledge in System Design.
 
 #### 🚀 Magic Skills:
 ##### 💻 Web Technology: 
@@ -13,8 +14,6 @@ I'm Varinder, a fervent code conjurer weaving spells with coding.
 #### ✔️ DSA Challenge Accepted: click to visit
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderchats)
 
-
-#### 🌱 Brewing potions of knowledge in System Design.
 
 #### 📫 Send an owl or connect via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nmvarinder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nmvarinder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nmvarinder) 
