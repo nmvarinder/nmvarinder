@@ -1,4 +1,4 @@
-#### 👨‍💻 Hello CodeCrafters! 🚀
+#### 👨‍💻 Hello Coders! 🚀
 I'm Varinder, a fervent code conjurer weaving spells with coding.
 
 #### 🚀 Magic Skills:
