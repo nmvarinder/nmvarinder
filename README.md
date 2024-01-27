@@ -14,7 +14,7 @@ I'm Varinder, a fervent code conjurer weaving spells with coding.
 <!-- #### 🔭 Currently enchanting the realms with Web-Development Project. -->
 
 #### ✔️ DSA Challenge Accepted: click to visit
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderchats)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderchats)  -->
 
 
 #### 📫 Send an owl or connect via:
